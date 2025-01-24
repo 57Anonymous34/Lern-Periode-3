@@ -26,3 +26,5 @@ Heute habe ich ein TicTacToe Spiel gemacht. Ich bin zufrieden. Das einzige Probl
 - [ ] Farben hinzufügen für X und 0(z.b.x= rot, 0= blau)
 - [ ] Fehler beheben und danach verbessern.(X soll auch gewinnen)
 - [ ] Ein Wilkommensschild machen. Damit es nicht leer aussieht.
+
+Heute habe ich bei meinem TicTacTue projekt nichts gemacht, da es einen Fehler angezeigt hat. Ich habe versucht zu finden wo das Problem war, konnte es aber nicht finden und auch somit nicht weiter Arbeiten. Stattdesen habe ich versucht ein TicTacTue ohne Winforms zu programmieren.
