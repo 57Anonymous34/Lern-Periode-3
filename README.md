@@ -1,4 +1,4 @@
-# Lern-Periode-3
+# LernPeriode-3
 
 10.1 bis 24.1
 
